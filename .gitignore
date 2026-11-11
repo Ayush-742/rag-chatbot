@@ -1,0 +1,8 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+faiss_index/
+eval_results.csv
+.DS_Store

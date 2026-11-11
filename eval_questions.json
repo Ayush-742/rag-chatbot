@@ -1,0 +1,20 @@
+[
+  {"question": "How many attention heads does the base Transformer model use?", "expected_keywords": ["8"]},
+  {"question": "What does the Transformer use instead of recurrence or convolutions?", "expected_keywords": ["attention"]},
+  {"question": "What two tasks is BERT pre-trained on?", "expected_keywords": ["masked", "next sentence"]},
+  {"question": "How many parameters does BERT-base have?", "expected_keywords": ["110"]},
+  {"question": "How many layers does BERT-large have?", "expected_keywords": ["24"]},
+  {"question": "What two kinds of memory does RAG combine?", "expected_keywords": ["parametric", "non-parametric"]},
+  {"question": "What knowledge source does the RAG paper's retriever index?", "expected_keywords": ["wikipedia"]},
+  {"question": "What are the two RAG model variants?", "expected_keywords": ["rag-sequence", "rag-token"]},
+  {"question": "Which two models are trained against each other in a GAN?", "expected_keywords": ["generator", "discriminator"]},
+  {"question": "How is the GAN training objective described game-theoretically?", "expected_keywords": ["minimax"]},
+  {"question": "What does DCGAN use instead of pooling layers?", "expected_keywords": ["strided"]},
+  {"question": "Which activation does the DCGAN generator use in its output layer?", "expected_keywords": ["tanh"]},
+  {"question": "Which activation does the DCGAN discriminator use?", "expected_keywords": ["leaky"]},
+  {"question": "What do the layers in ResNet learn, instead of unreferenced functions?", "expected_keywords": ["residual"]},
+  {"question": "What is the deepest ResNet depth evaluated on ImageNet?", "expected_keywords": ["152"]},
+  {"question": "Which year did ResNet win the ILSVRC classification task?", "expected_keywords": ["2015"]},
+  {"question": "What is the capital of France?", "expected_keywords": ["provided documents"]},
+  {"question": "Who won the 2018 FIFA World Cup?", "expected_keywords": ["provided documents"]}
+]
